@@ -18,7 +18,7 @@
 
 <body>
 <img src="logo.png" width="348" height="108" />&nbsp;
-&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <span class="css1"><a href="学校概况.html" target="new">学校概况</a>&nbsp;
-&nbsp;&nbsp; &nbsp;<a href="人才培养.html" target="new">人才培养</a>&nbsp;&nbsp;&nbsp; &nbsp;<a href="风光.html" target="new">校园风光</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="樱花.html" target="new">武大樱花</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="图书馆.html" target="new">图书馆</a>&nbsp;&nbsp;&nbsp; &nbsp;<a href="校歌1.html" target="new">校歌</a></span>
+&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; <span class="css1"><a href="gai.html" target="new">gai</a>&nbsp;
+&nbsp;&nbsp; &nbsp;<a href="rencai.html" target="new">rencai</a>&nbsp;&nbsp;&nbsp; &nbsp;<a href="feng.html" target="new">feng</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="yinghua.html" target="new">yinghua</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tu.html" target="new">tu</a>&nbsp;&nbsp;&nbsp; &nbsp;<a href="ge1.html" target="new">ge</a></span>
 </body>
 </html>
